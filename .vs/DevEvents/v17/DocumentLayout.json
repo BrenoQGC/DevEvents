@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Projetos\\DevEvents\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|d:\\projetos\\devevents\\devevents.api\\entities\\devevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\entities\\devevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|d:\\projetos\\devevents\\devevents.api\\entities\\deveventspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\entities\\deveventspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|d:\\projetos\\devevents\\devevents.api\\mappers\\deveventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\mappers\\deveventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|d:\\projetos\\devevents\\devevents.api\\persistence\\deveventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\persistence\\deveventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|d:\\projetos\\devevents\\devevents.api\\models\\deveventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\models\\deveventinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|d:\\projetos\\devevents\\devevents.api\\entities\\devevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\entities\\devevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|d:\\projetos\\devevents\\devevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|d:\\projetos\\devevents\\devevents.api\\entities\\deveventspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\entities\\deveventspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EE682C5-503C-4873-900C-8A592888E6AE}|DevEvents.API\\DevEvents.API.csproj|d:\\projetos\\devevents\\devevents.api\\devevents.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,7 +50,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "DevEventsDbContext.cs",
+              "DocumentMoniker": "D:\\Projetos\\DevEvents\\DevEvents.API\\Persistence\\DevEventsDbContext.cs",
+              "RelativeDocumentMoniker": "DevEvents.API\\Persistence\\DevEventsDbContext.cs",
+              "ToolTip": "D:\\Projetos\\DevEvents\\DevEvents.API\\Persistence\\DevEventsDbContext.cs",
+              "RelativeToolTip": "DevEvents.API\\Persistence\\DevEventsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:42:38.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DevEventViewModel.cs",
               "DocumentMoniker": "D:\\Projetos\\DevEvents\\DevEvents.API\\Models\\DevEventViewModel.cs",
               "RelativeDocumentMoniker": "DevEvents.API\\Models\\DevEventViewModel.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DevEventSpeakerInputModel.cs",
               "DocumentMoniker": "D:\\Projetos\\DevEvents\\DevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
               "RelativeDocumentMoniker": "DevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DevEventInputModel.cs",
               "DocumentMoniker": "D:\\Projetos\\DevEvents\\DevEvents.API\\Models\\DevEventInputModel.cs",
               "RelativeDocumentMoniker": "DevEvents.API\\Models\\DevEventInputModel.cs",
@@ -85,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DevEvent.cs",
               "DocumentMoniker": "D:\\Projetos\\DevEvents\\DevEvents.API\\Entities\\DevEvent.cs",
               "RelativeDocumentMoniker": "DevEvents.API\\Entities\\DevEvent.cs",
               "ToolTip": "D:\\Projetos\\DevEvents\\DevEvents.API\\Entities\\DevEvent.cs",
               "RelativeToolTip": "DevEvents.API\\Entities\\DevEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T00:31:29.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DevEventProfile.cs",
               "DocumentMoniker": "D:\\Projetos\\DevEvents\\DevEvents.API\\Mappers\\DevEventProfile.cs",
               "RelativeDocumentMoniker": "DevEvents.API\\Mappers\\DevEventProfile.cs",
@@ -111,20 +128,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projetos\\DevEvents\\DevEvents.API\\Program.cs",
               "RelativeDocumentMoniker": "DevEvents.API\\Program.cs",
               "ToolTip": "D:\\Projetos\\DevEvents\\DevEvents.API\\Program.cs",
               "RelativeToolTip": "DevEvents.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T22:09:49.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "DevEventSpeaker.cs",
               "DocumentMoniker": "D:\\Projetos\\DevEvents\\DevEvents.API\\Entities\\DevEventSpeaker.cs",
               "RelativeDocumentMoniker": "DevEvents.API\\Entities\\DevEventSpeaker.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DevEvents.API.csproj",
               "DocumentMoniker": "D:\\Projetos\\DevEvents\\DevEvents.API\\DevEvents.API.csproj",
               "RelativeDocumentMoniker": "DevEvents.API\\DevEvents.API.csproj",
@@ -145,8 +162,7 @@
               "RelativeToolTip": "DevEvents.API\\DevEvents.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-03T22:08:19.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T22:08:19.282Z"
             }
           ]
         }
